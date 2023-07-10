@@ -1,5 +1,9 @@
 
-# Skedule User Documentation
+# Skedule
+
+![repocard2](https://github.com/raaifr/SkeduleDocu/assets/76399197/4547d913-41a0-44b7-9208-f4127d7d4b69)
+
+[![MIT License](https://img.shields.io/badge/Version-0.1-70c2b2)](https://choosealicense.com/licenses/mit/) [![MIT License](https://img.shields.io/badge/Release-Public_Beta-yellow)](https://choosealicense.com/licenses/mit/)
 
 Welcome to the user guide for the Day Planner appp - Skedule.
 
@@ -23,7 +27,7 @@ Overall, this app is designed to help you maintain a healthy routine and stay on
 
 Currently Skedule is only available for Android only.
 
-Install Skedule via [Google PlayStore](https://play.google.com/store/apps/details?id=mv.raaif.skedule)
+<a href='https://play.google.com/store/apps/details?id=mv.raaif.skedule&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200" /></a>
 
 Available on Huawei AppGallery soon!
     
@@ -57,6 +61,8 @@ Make sure battery optimization for Skedule app is disabled and you have granted 
 - More Organized Tasks Page for work, studies and personal tasks.
 
 - Responsive schedule interface
+
+- iOS Release
 
 
 ## Authors
